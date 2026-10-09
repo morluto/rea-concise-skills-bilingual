@@ -55,6 +55,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** — Automates App Store Connect workflows via the `asc` CLI, covering Xcode builds, signing, TestFlight, metadata, screenshots, review submissions, and notarization.
 
+- **[morluto/rea — reverse-engineer-anything](https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything)** — Investigates shipped binaries and JavaScript/Electron apps with REA CLI/MCP evidence; install REA separately and bring Hopper, Ghidra, or IDA for deep native analysis.
+
 ### Frontend & UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog for UI craft, accessibility, motion, and performance, accessible to agents via CLI and MCP.

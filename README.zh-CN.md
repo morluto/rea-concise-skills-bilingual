@@ -55,6 +55,8 @@
 
 - **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** — 基于 `asc` CLI 自动化 App Store Connect 全流程，覆盖 Xcode 构建、证书签名、TestFlight 分发、元数据同步、截图与送审公证。
 
+- **[morluto/rea — reverse-engineer-anything](https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything)** — 通过 REA CLI/MCP 的证据分析已发布二进制与 JavaScript/Electron 应用；需另装 REA，原生深度分析需自备 Hopper、Ghidra 或 IDA。
+
 ### 前端与 UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — 面向设计工程的专业 Skills 库，覆盖界面打磨、无障碍、动效与性能，并为 Agent 提供 CLI 与 MCP 接入。
